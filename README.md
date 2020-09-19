@@ -2,9 +2,10 @@
 
 ## Group Members
 
-1) Jeril Jose
-
-2) SahilPreet Singh
+**Team Member**| **Role**
+------------ | -------------
+Sahilpreet Singh | Team Leader
+Jeril Jose | Developer
 
 # Topics
 
