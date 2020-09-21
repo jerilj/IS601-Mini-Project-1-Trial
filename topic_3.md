@@ -51,4 +51,8 @@ Git commit -am
 ```
 ADDing new changes.
 
+##Merge
+Merging  is Git's way of putting together a united history again. The git merge command allows you to take independent lines of development made by a git branch and merge it into a single branch.
+
+
 [Back To Topic List](README.md)
