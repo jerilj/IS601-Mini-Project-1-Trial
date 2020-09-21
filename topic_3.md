@@ -49,6 +49,6 @@ Git commit -m
 
 Git commit -am
 ```
-
+ADDing new changes.
 
 [Back To Topic List](README.md)
