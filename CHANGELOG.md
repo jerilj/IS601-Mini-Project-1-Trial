@@ -1,10 +1,10 @@
 # CHANGELOG
 
-## Merge
+## Pull Request #14
 Author: Jeril Jose - 
 Date:   Tue Sep 22 19:25:11 2020 -0400
 
-    Merge pull request #14 from Jeril Josej/readme-patch
+    Merge pull request #14 from jerilj/readme-patch
     
     Fix: Updated Readme With Image
 
@@ -21,11 +21,11 @@ Date:   Tue Sep 22 19:22:32 2020 -0400
     Task: Uploaded Image For Readme
 
 
-## Merge
+## Pull Request #13
 Author: Jeril Jose - 
 Date:   Tue Sep 22 19:06:52 2020 -0400
 
-    Merge pull request #13 from Jeril Josej/topic-2
+    Merge pull request #13 from jerilj/topic-2
     
     Fix: Updated GitFlow with Image
 
@@ -36,11 +36,11 @@ Date:   Tue Sep 22 19:06:32 2020 -0400
     Fix: Updated GitFlow with Image
 
 
-## Merge
+## Pull Request #12
 Author: Jeril Jose - 
 Date:   Tue Sep 22 19:05:24 2020 -0400
 
-    Merge pull request #12 from Jeril Josej/topic-1
+    Merge pull request #12 from jerilj/topic-1
     
     Fix: Updated Topic 1 with Image
 
@@ -63,11 +63,11 @@ Date:   Tue Sep 22 19:01:40 2020 -0400
     Task: Uploaded Image for Topic 1
 
 
-## Merge
+## Pull Request #11
 Author: Jeril Jose - 
 Date:   Tue Sep 22 17:09:47 2020 -0400
 
-    Merge pull request #11 from Jeril Josej/topic-2
+    Merge pull request #11 from jerilj/topic-2
     
     Topic 2
 
@@ -90,11 +90,11 @@ Date:   Tue Sep 22 17:08:24 2020 -0400
     Feature: Added GitFlow Development
 
 
-## Merge
+## Pull Request #10
 Author: Jeril Jose - 
 Date:   Tue Sep 22 17:06:43 2020 -0400
 
-    Merge pull request #10 from Jeril Josej/topic-1
+    Merge pull request #10 from jerilj/topic-1
     
     Topic 1
 
@@ -123,11 +123,11 @@ Date:   Tue Sep 22 17:05:09 2020 -0400
     Feature: Added Git Details
 
 
-## Merge
+## Pull Request #9
 Author: Jeril Jose - 
 Date:   Tue Sep 22 17:01:03 2020 -0400
 
-    Merge pull request #9 from Jeril Josej/readme-patch
+    Merge pull request #9 from jerilj/readme-patch
     
     Fix: Updated Readme Title And Members
 
@@ -138,11 +138,11 @@ Date:   Tue Sep 22 16:52:33 2020 -0400
     Fix: Updated Readme Title And Members
 
 
-## Merge
+## Pull Request #8
 Author: Jeril Jose - 
 Date:   Tue Sep 22 16:49:14 2020 -0400
 
-    Merge pull request #8 from Jeril Josej/github-terminology
+    Merge pull request #8 from jerilj/github-terminology
     
     GitHub terminology
 
@@ -165,11 +165,11 @@ Date:   Tue Sep 22 16:47:59 2020 -0400
     Feature: Added Repository Details
 
 
-## Merge
+## Pull Request #7
 Author: Jeril Jose - 
 Date:   Tue Sep 22 16:23:56 2020 -0400
 
-    Merge pull request #7 from Jeril Josej/topic-2
+    Merge pull request #7 from jerilj/topic-2
     
     Task: Added Topic 2 File
 
@@ -180,11 +180,11 @@ Date:   Tue Sep 22 16:23:47 2020 -0400
     Task: Added Topic 2 File
 
 
-## Merge
+## Pull Request #6
 Author: Jeril Jose - 
 Date:   Tue Sep 22 16:23:05 2020 -0400
 
-    Merge pull request #6 from Jeril Josej/topic-1
+    Merge pull request #6 from jerilj/topic-1
     
     Task: Added Topic 1 File
 
@@ -195,11 +195,11 @@ Date:   Tue Sep 22 16:22:54 2020 -0400
     Task: Added Topic 1 File
 
 
-## Merge
+## Pull Request #5
 Author: Jeril Jose - 
 Date:   Tue Sep 22 16:21:15 2020 -0400
 
-    Merge pull request #5 from Jeril Josej/readme-patch
+    Merge pull request #5 from jerilj/readme-patch
     
     Readme patch
 
@@ -228,11 +228,11 @@ Date:   Tue Sep 22 16:19:18 2020 -0400
     Feature: Added Topic 1
 
 
-## Merge
+## Pull Request #4
 Author: Jeril Jose - 
 Date:   Tue Sep 22 13:04:01 2020 -0400
 
-    Merge pull request #4 from Jeril Josej/github-terminology
+    Merge pull request #4 from jerilj/github-terminology
     
     GitHub terminology
 
@@ -369,11 +369,11 @@ Date:   Tue Sep 22 21:30:52 2020 +0530
     Create IMG
 
 
-## Merge
+## Pull Request #3
 Author: Jeril Jose - 
 Date:   Tue Sep 22 08:57:20 2020 -0400
 
-    Merge pull request #3 from Jeril Josej/github-terminology
+    Merge pull request #3 from jerilj/github-terminology
     
     Feature: Added Merge Details
 
@@ -384,11 +384,11 @@ Date:   Tue Sep 22 18:25:03 2020 +0530
     Feature: Added Merge Details
 
 
-## Merge
+## Pull Request #2
 Author: Jeril Jose - 
 Date:   Tue Sep 22 08:53:30 2020 -0400
 
-    Merge pull request #2 from Jeril Josej/github-terminology
+    Merge pull request #2 from jerilj/github-terminology
     
     Task: Created Page For GitHub Terminology
 
@@ -399,11 +399,11 @@ Date:   Tue Sep 22 08:53:17 2020 -0400
     Task: Created Page For GitHub Terminology
 
 
-## Merge
+## Pull Request #1
 Author: Jeril Jose - 
 Date:   Tue Sep 22 08:48:40 2020 -0400
 
-    Merge pull request #1 from Jeril Josej/readme-patch
+    Merge pull request #1 from jerilj/readme-patch
     
     Feature: Added Group Information
 
