@@ -1,7 +1,9 @@
 [Back To Topic List](README.md)
 
 # Software development tools and practices to improve productivity and competitiveness
+<p align="center">
 <img src="images/CI.png" alt="drawing" height="300"/>
+</p>
 
 ![drawing](images/CI.png)
 
